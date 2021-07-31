@@ -5,4 +5,4 @@
 this site hardly gets updated: https://www.shadowbad.com/ [![Website www.shadowbad.com](https://img.shields.io/website-up-down-green-red/https/www.shadowbad.com.svg)](https://www.shadowbad.com/)
 
 
-free: editor, git, vm's -> https://typescriptbad.com/ [![Website typescriptbad.com](https://img.shields.io/website-up-down-green-red/https/typescriptbad.com.svg)](https://typescriptbad.com)
+free: editor, git, vm's -> https://typescriptbad.com/ [![Website typescriptbad.com](https://img.shields.io/website-up-down-green-red/https/typescriptbad.com.svg)](https://typescriptbad.com) not even finished yet LOL
